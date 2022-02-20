@@ -1,27 +1,68 @@
-# Next.js + Tailwind CSS Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# DisneyPlus
 
-## Preview
+Disney+ like-ish movie streaming web app made with Tailwind, Next, Apollo and TMDB !
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-## Deploy your own
+## Documentation
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+[Documentation](https://ihaventmadeanydocsyetlol)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
+## Authors
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+- [@ishanPy](https://www.github.com/ishanPy)
+
+## Run Locally
+
+Clone the project
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+  git clone https://ishanPy/DisneyPlus
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Go to the project directory
+
+```bash
+  cd app
+```
+
+Install dependencies
+
+```bash
+  npm install OR yarn add
+```
+
+Start the server
+
+```bash
+  npm run dev OR yarn dev
+```
+
+
+## Screenshots
+![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
+
+
+## Used By
+
+This project is used by the following people:
+
+- me
+- also me 
+
+## Optimizations
+
+- Added sharp for Image Optimizations
+- Added ```react-svginline``` for SVG Optimizations
+
+## Support
+
+For support, email ishannagar84@gmail.com or join our Slack channel.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
