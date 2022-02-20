@@ -43,7 +43,7 @@ Start the server
 
 ## Screenshots
 ![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
+![Screenshot](screenshot2.png)
 
 
 ## Used By
